@@ -1,2 +1,2 @@
 # TestRep2
-Create dev branch blabla now FEATURE1.
+Create dev branch blabla now and FEATURE1.
